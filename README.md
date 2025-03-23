@@ -1,9 +1,12 @@
-<h2 align="left">Hi 👋!</h2>
-I'm Shibi, a golang developer and a sysadmin. I basically love any fluffy animal.
+<h2 align="left">Hi!</h2>
 
 ###
 
 <img align="left" height="150" src="https://avatars.githubusercontent.com/u/204304033?v=4"  />
+
+###
+
+<p align="left">I'm Shibi, a golang developer and a sysadmin. I basically love any fluffy animal.</p>
 
 ###
 
@@ -24,6 +27,8 @@ I'm Shibi, a golang developer and a sysadmin. I basically love any fluffy animal
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shibidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
